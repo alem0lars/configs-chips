@@ -5,12 +5,13 @@
   "copyq": true,
   "weechat": true,
   "turses": true,
-  "mega": {
-    "remote": "ebooks",
-    "local": "/data/documents/ebooks",
-    "user": "molari.alessandro@gmail.com",
-    "lpassword": "4785189876"
-  }
+  "mega": [
+    { "remote": "ebooks",
+      "local": "/data/documents/ebooks",
+      "user": "molari.alessandro@gmail.com",
+      "lpwd": "4785189876"
+    }
+  ]
 }
 
 

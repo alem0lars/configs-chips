@@ -1,6 +1,6 @@
 elems:
 
-  - src:  '(.+)/<%= get_var! :hostname %>\.json$'
+  - src:  '(.+)/<%= `hostname`.strip %>\.json$'
     dst:  ~/.<1>
     only: f?chips
 
