@@ -1,0 +1,8 @@
+elems:
+
+  - src:  '(.+)/<%= get_var! :hostname %>\.json$'
+    dst:  ~/.<1>
+    only: f?chips
+
+
+# vim: set filetype=eruby.yaml :

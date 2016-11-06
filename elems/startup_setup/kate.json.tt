@@ -1,0 +1,17 @@
+{
+  "lastpass": {
+    "user": "molari.alessandro@gmail.com"
+  },
+  "copyq": true,
+  "weechat": true,
+  "turses": true,
+  "mega": {
+    "remote": "ebooks",
+    "local": "/data/documents/ebooks",
+    "user": "molari.alessandro@gmail.com",
+    "lpassword": "4785189876"
+  }
+}
+
+
+<%# vim: set filetype=eruby.json : %>
