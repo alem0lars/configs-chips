@@ -1,0 +1,29 @@
+{
+  "lastpass": {
+    "user": "alessandro.molari@yoroi.company"
+  },
+  "copyq": true,
+  "weechat": true,
+  "turses": true,
+  "mega": [
+    { "remote": "ebooks",
+      "local": "/data/documents/ebooks",
+      "user": "alessandro.molari@yoroi.company",
+      "pwd": "lpass:TODO"
+    },
+    { "remote": "notes",
+      "local": "/data/notes",
+      "user": "alessandro.molari@yoroi.company",
+      "pwd": "lpass:TODO"
+    }
+  ],
+  "ssh": [
+    { "server": "anapnea.net",
+      "user": "alem0lars",
+      "pwd": "lpass:5386269492"
+    }
+  ]
+}
+
+
+<%# vim: set filetype=eruby.json : %>
