@@ -6,23 +6,9 @@
   "copyq": true,
   "weechat": true,
   "turses": true,
-  "mega": [
-    { "remote": "ebooks",
-      "local": "/data/documents/ebooks",
-      "user": "molari.alessandro@gmail.com",
-      "pwd": "lpass:4785189876"
-    },
-    { "remote": "notes",
-      "local": "/data/notes",
-      "user": "molari.alessandro@gmail.com",
-      "pwd": "lpass:4785189876"
-    }
-  ],
+  "mega": true,
   "ssh": [
-    { "server": "anapnea.net",
-      "user": "alem0lars",
-      "pwd": "lpass:5386269492"
-    }
+    {"server": "anapnea.net", "user": "alem0lars", "pwd": "lpass:5386269492"}
   ]
 }
 

@@ -1,28 +1,12 @@
 {
-  "lastpass": {
-    "user": "alessandro.molari@yoroi.company"
-  },
+  "lastpass": {"user": "alessandro.molari@yoroi.company"},
   "taffybar": true,
   "copyq": true,
   "weechat": true,
   "turses": true,
-  "mega": [
-    { "remote": "ebooks",
-      "local": "/data/documents/ebooks",
-      "user": "alessandro.molari@yoroi.company",
-      "pwd": "lpass:TODO"
-    },
-    { "remote": "notes",
-      "local": "/data/notes",
-      "user": "alessandro.molari@yoroi.company",
-      "pwd": "lpass:TODO"
-    }
-  ],
+  "mega": true,
   "ssh": [
-    { "server": "anapnea.net",
-      "user": "alem0lars",
-      "pwd": "lpass:5386269492"
-    }
+    {"server": "anapnea.net", "user": "alem0lars", "pwd": "lpass:5386269492"}
   ]
 }
 
