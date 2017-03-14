@@ -1,0 +1,7 @@
+{
+  "term": "urxvtc",
+  "tmux": true
+}
+
+
+<%# vim: set filetype=eruby.json : %>
