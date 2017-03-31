@@ -1,0 +1,12 @@
+{
+  "backups": [
+    {
+      "name": "projects",
+      "dir": "/data/develop/projects",
+      "repo": "/data/backup/kate-projects.attic"
+    }
+  ]
+}
+
+
+<%# vim: set filetype=eruby.json : %>
