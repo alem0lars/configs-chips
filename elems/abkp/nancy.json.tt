@@ -4,6 +4,11 @@
       "name": "projects",
       "dir": "/data/develop/projects",
       "repo": "/data/backup/nancy-projects.attic"
+    },
+    {
+      "name": "home-alem0lars",
+      "dir": "/home/alem0lars",
+      "repo": "/data/backup/nancy-home-alem0lars.attic"
     }
   ]
 }
