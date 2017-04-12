@@ -4,6 +4,7 @@
   "taffybar": true,
   "copyq": true,
   "weechat": true,
+  "slack": true,
   "turses": true,
   "mega": true,
   "ssh": [
