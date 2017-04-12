@@ -1,6 +1,6 @@
 {
   "term": "urxvtc",
-  "tmux": true
+  "tmux": false
 }
 
 
