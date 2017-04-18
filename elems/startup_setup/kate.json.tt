@@ -5,11 +5,13 @@
   "copyq": true,
   "weechat": true,
   "slack": true,
-  "turses": true,
-  "mega": true,
+  "thunderbird": true,
+  "mega": true
+<%#
   "ssh": [
     {"server": "anapnea.net", "user": "alem0lars", "pwd": "lpass:5386269492"}
   ]
+%>
 }
 
 
