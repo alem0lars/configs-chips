@@ -9,6 +9,11 @@
       "name": "home-alem0lars",
       "dir": "/home/alem0lars",
       "repo": "/data/backup/nancy-home-alem0lars.attic"
+    },
+    {
+      "name": "notes-yoroi",
+      "dir": "/data/notes/yoroi",
+      "repo": "/data/backup/nancy-notes-yoroi.attic"
     }
   ]
 }
