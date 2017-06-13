@@ -8,7 +8,10 @@
     {
       "name": "home-alem0lars",
       "dir": "/home/alem0lars",
-      "repo": "/data/backup/nancy-home-alem0lars.attic"
+      "repo": "/data/backup/nancy-home-alem0lars.attic",
+      "excludes": [
+        "/home/alem0lars/.thunderbird"
+      ]
     },
     {
       "name": "notes-yoroi",
