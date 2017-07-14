@@ -15,8 +15,8 @@
     },
     {
       "name": "notes-yoroi",
-      "dir": "/data/notes/yoroi",
-      "repo": "/data/backup/nancy-notes-yoroi.attic"
+      "dir": "/data/notes/yrnotes",
+      "repo": "/data/backup/nancy-notes-yrnotes.attic"
     }
   ]
 }
