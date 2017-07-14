@@ -10,7 +10,8 @@
       "dir": "/home/alem0lars",
       "repo": "/data/backup/nancy-home-alem0lars.attic",
       "excludes": [
-        "/home/alem0lars/.thunderbird"
+        "/home/alem0lars/.thunderbird",
+        "/home/alem0lars/.mozilla"
       ]
     },
     {
