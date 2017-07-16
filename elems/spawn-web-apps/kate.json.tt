@@ -3,6 +3,10 @@
     {
       "name": "app-trello-*ly",
       "profile": "Default"
+    },
+    {
+      "name": "toggl",
+      "profile": "Default"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "slack": true,
   "thunderbird": true,
   "mega": true,
-  "web-apps": true,
+  "web_apps": true,
   "feh": {
     "path": "/data/graphics/wallpapers/rob-gonsalves-chalkboard-universe.jpg"
   }
