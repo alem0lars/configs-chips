@@ -7,6 +7,10 @@
     {
       "name": "toggl",
       "profile": "Default"
+    },
+    {
+      "name": "reddit",
+      "profile": "Default"
     }
   ]
 }
