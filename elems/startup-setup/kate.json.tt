@@ -5,6 +5,7 @@
   "copyq": true,
   "weechat": true,
   "slack": true,
+  "telegram": true,
   "thunderbird": true,
   "mega": true,
   "web_apps": true,
