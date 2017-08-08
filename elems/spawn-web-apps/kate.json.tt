@@ -11,6 +11,14 @@
     {
       "name": "whatsapp",
       "profile": "Default"
+    },
+    {
+      "name": "facebook",
+      "profile": "Default"
+    },
+    {
+      "name": "twitter",
+      "profile": "Default"
     }
   ]
 }
