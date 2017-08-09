@@ -19,6 +19,14 @@
     {
       "name": "twitter",
       "profile": "Default"
+    },
+    {
+      "name": "reverso-context",
+      "profile": "Default"
+    },
+    {
+      "name": "wordreference",
+      "profile": "Default"
     }
   ]
 }
