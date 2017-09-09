@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "app-trello-*ly",
+      "name": "trello",
       "profile": "Default"
     },
     {
