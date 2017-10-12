@@ -8,7 +8,13 @@
   "telegram": true,
   "thunderbird": true,
   "mega": true,
-  "web_apps": true,
+  "web_apps": {
+    "only": [
+      "trello",
+      "toggl",
+      "whatsapp"
+    ]
+  },
   "feh": {
     "path": "/data/graphics/wallpapers/rob-gonsalves-chalkboard-universe.jpg"
   }
