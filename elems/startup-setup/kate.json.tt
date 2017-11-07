@@ -1,11 +1,13 @@
 {
   "lastpass": {"user": "molari.alessandro@gmail.com"},
+  "wmname": "LG3D",
   "redshift": true,
   "taffybar": true,
   "copyq": true,
   "weechat": true,
   "slack": true,
   "telegram": true,
+  "skype": true,
   "thunderbird": true,
   "mega": true,
   "web_apps": {
