@@ -1,11 +1,22 @@
 {
-  "home": {
-    "eDP1": {
-      "role": "internal"
+  "default_profile_name": "single",
+  "profiles": {
+    "single": {
+      "eDP1": {
+        "role": "internal"
+      }
     },
-    "DP2-1": {
-      "role": "external",
-      "position": "left"
+    "home": {
+      "eDP1": {
+        "role": "internal",
+        "mode": "2880x1620"
+      },
+      "DP2-1": {
+        "role": "external",
+        "mode": "1680x1050",
+        "position": "right",
+        "scale": 1.5
+      }
     }
   }
 }
