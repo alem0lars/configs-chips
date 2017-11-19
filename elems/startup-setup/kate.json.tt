@@ -4,18 +4,14 @@
   "redshift": true,
   "copyq": true,
   "weechat": true,
+  "whatsapp": true,
+  "trello": true,
+  "toggl": true,
   "slack": true,
   "telegram": true,
   "skype": true,
   "thunderbird": true,
   "mega": true,
-  "web_apps": {
-    "only": [
-      "trello",
-      "toggl",
-      "whatsapp"
-    ]
-  },
   "feh": {
     "path": "/data/graphics/wallpapers/rob-gonsalves-chalkboard-universe.jpg"
   }
