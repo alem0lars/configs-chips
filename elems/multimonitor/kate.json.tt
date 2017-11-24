@@ -2,16 +2,16 @@
   "default_profile_name": "single",
   "profiles": {
     "single": {
-      "eDP1": {
+      "eDP-1": {
         "role": "internal"
       }
     },
     "home": {
-      "eDP1": {
+      "eDP-1": {
         "role": "internal",
         "mode": "2880x1620"
       },
-      "DP2-1": {
+      "DP-2-1": {
         "role": "external",
         "mode": "1680x1050",
         "position": "right",
