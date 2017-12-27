@@ -1,5 +1,5 @@
 {
-  "lastpass": {"user": "molari.alessandro@gmail.com"},
+  <%#"lastpass": {"user": "molari.alessandro@gmail.com"},%>
   "multimonitor": true,
   "redshift": true,
   "copyq": true,
