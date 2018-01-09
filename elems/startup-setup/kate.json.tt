@@ -11,6 +11,7 @@
   "telegram": true,
   "thunderbird": true,
   "mega": true,
+  "skype": true,
   "gnome_keyring": {
     "pwd": "lpass:1449589861057547461"
   },
