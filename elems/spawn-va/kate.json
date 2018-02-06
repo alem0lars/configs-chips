@@ -1,11 +1,7 @@
 {
   "default_scanners_config": {
     "nikto": {
-      "format": "htm",
-      "enabled": true
-    },
-    "wpscan": {
-      "enabled": true
+      "format": "htm"
     }
   }
 }
