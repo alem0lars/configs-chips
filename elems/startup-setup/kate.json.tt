@@ -12,13 +12,14 @@
   "thunderbird": true,
   "mega": true,
   "skype": true,
+  "caprine": true,
   "gnome_keyring": {
     "pwd": "lpass:1449589861057547461"
-  },
-  "feh": {
-    "path": "/data/graphics/wallpapers/rob-gonsalves-chalkboard-universe.jpg"
   }
 <%#
+  "feh": {
+    "path": "/data/graphics/wallpapers/rob-gonsalves-chalkboard-universe.jpg"
+  },
   "ssh": [
     {"server": "anapnea.net", "user": "alem0lars", "pwd": "lpass:5386269492"}
   ]
