@@ -2,6 +2,12 @@
   "default_scanners_config": {
     "nikto": {
       "format": "htm"
+    },
+    "wpscan": {
+      "random_agent": true
+    },
+    "wapiti": {
+      "format": "json"
     }
   }
 }
