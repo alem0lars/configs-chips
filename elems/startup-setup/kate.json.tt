@@ -15,7 +15,8 @@
   "caprine": true,
   "gnome_keyring": {
     "pwd": "lpass:1449589861057547461"
-  }
+  },
+  "nitrogen": true
 <%#
   "feh": {
     "path": "/data/graphics/wallpapers/rob-gonsalves-chalkboard-universe.jpg"
