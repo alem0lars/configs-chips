@@ -6,6 +6,18 @@
         "role": "internal"
       }
     },
+    "foro-annonario": {
+      "eDP1": {
+        "role": "internal",
+        "mode": "2880x1620"
+      },
+      "HDMI1": {
+        "role": "external",
+        "mode": "1360x768",
+        "position": "right",
+        "scale": 1.5
+      }
+    },
     "home": {
       "eDP1": {
         "role": "internal",

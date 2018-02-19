@@ -16,7 +16,6 @@
   "gnome_keyring": {
     "pwd": "lpass:1449589861057547461"
   },
-  "gnsync": { "path": "/data/notes" },
   "nitrogen": true
 <%#
   "feh": {
