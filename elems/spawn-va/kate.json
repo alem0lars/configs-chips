@@ -8,6 +8,13 @@
     },
     "wapiti": {
       "format": "json"
+    },
+    "sqlmap": {
+      "method": "get",
+      "user_agent": "random",
+      "fingerprint": true,
+      "level": 4,
+      "risk": 2
     }
   }
 }
