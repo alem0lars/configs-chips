@@ -2,8 +2,13 @@
   "backups": [
     {
       "name": "projects",
-      "dir": "/data/develop/projects",
+      "dir": "/data/projects",
       "repo": "/data/backup/kate-projects.attic"
+    },
+    {
+      "name": "docs",
+      "dir": "/data/docs",
+      "repo": "/data/backup/kate-docs.attic"
     }
   ]
 }
