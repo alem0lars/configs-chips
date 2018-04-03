@@ -9,10 +9,12 @@
   "notion": true,
   "slack": true,
   "telegram": true,
-  "thunderbird": true,
+  "mailspring": true,
   "mega": true,
   "skype": true,
   "caprine": true,
+  "facebook": true,
+  "inoreader": true,
   "gnome_keyring": {
     "pwd": "lpass:1449589861057547461"
   },
