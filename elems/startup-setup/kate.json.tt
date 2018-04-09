@@ -6,7 +6,7 @@
   "trello": true,
   "notion": true,
   "inoreader": true,
-  "waveinbox": true,
+  "wavebox": true,
   "gnome_keyring": {
     "pwd": "lpass:1449589861057547461"
   },
