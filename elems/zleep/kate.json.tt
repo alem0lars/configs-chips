@@ -1,0 +1,8 @@
+{
+  "respawn_apps": ["inoreader", "notion", "trello"],
+  "sleep_program": "zzz",
+  "lock_program": "slock"
+}
+
+
+<%# vim: set filetype=eruby.json : %>

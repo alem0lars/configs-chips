@@ -1,0 +1,35 @@
+apps:
+  # System
+  - name: start-pulseaudio-x11
+    single: pulseaudio
+    detached: false
+  - name: multimonitor
+    detached: false
+  - name: redshift
+  - name: unclutter
+    args: -root
+  - name: nitrogen
+    args: --restore
+    detached: false
+
+  # Misc
+  - name: taffybar
+  - name: dunst
+  - name: copyq
+
+  # Reference
+  - name: inoreader
+  # Org
+  - name: notion
+  - name: trello
+  # Social
+  - name: whatsapp
+  - name: telegram-desktop
+  - name: caprine
+  - name: slack
+
+lastpass:
+  user: molari.alessandro@gmail.com
+
+
+# vim: set ft=yaml.eruby :

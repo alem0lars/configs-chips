@@ -1,7 +1,7 @@
 elems:
 
-  - src:  '(.+)/<%= `hostname`.strip %>\.json$'
-    dst:  ~/.<1>
+  - src:  '(.+)/<%= `hostname`.strip %>\.(json|yaml)$'
+    dst:  ~/.<1>.<2>
     only: f?chips
 
 
