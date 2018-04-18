@@ -27,6 +27,7 @@ apps:
   - name: telegram-desktop
   - name: caprine
   - name: slack
+  - name: thunderbird
 
 lastpass:
   user: molari.alessandro@gmail.com
