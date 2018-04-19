@@ -1,5 +1,5 @@
 {
-  "respawn_apps": ["inoreader", "notion", "trello", "whatsapp", "slack"],
+  "respawn_apps": [],
   "sleep_program": "zzz",
   "lock_program": "slock"
 }
