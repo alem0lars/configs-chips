@@ -23,7 +23,7 @@ apps:
   - name: notion
   - name: trello
   # Social
-  - name: whatsapp
+  - name: whatsapp-web-desktop
   - name: telegram-desktop
   - name: caprine
   - name: slack
