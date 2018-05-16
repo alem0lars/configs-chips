@@ -1,0 +1,15 @@
+
+{
+  "default_profile_name": "single",
+  "profiles": {
+    "single": {
+      "eDP1": {
+        "role": "internal",
+        "mode": "1920x1080"
+      }
+    }
+  }
+}
+
+
+<%# vim: set filetype=eruby.json : %>
