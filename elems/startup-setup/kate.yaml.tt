@@ -21,6 +21,7 @@ apps:
   - name: feedreader
   - name: calibre
   # Org
+  - name: todoist
   - name: notion
   - name: trello
   # Social
