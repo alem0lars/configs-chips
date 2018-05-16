@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "trello",
+      "profile": "Default"
+    }
+  ]
+}
+
+
+<%# vim: set filetype=eruby.json : %>
