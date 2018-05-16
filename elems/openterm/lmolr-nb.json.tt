@@ -1,6 +1,6 @@
 {
-  "term": "urxvtc",
-  "tmux": false
+  "term": "urxvt",
+  "tmux": true
 }
 
 
