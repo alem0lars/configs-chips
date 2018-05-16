@@ -2,3 +2,5 @@
   "default_scanners_config": {
   }
 }
+
+<%# vim: set filetype=eruby.json : %>
