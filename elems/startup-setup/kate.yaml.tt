@@ -13,12 +13,13 @@ apps:
     detached: false
 
   # Misc
-  - name: taffybar
   - name: dunst
   - name: copyq
+  - name: toggldesktop
 
-  # Reference
-  - name: inoreader
+  # Docs
+  - name: feedreader
+  - name: calibre
   # Org
   - name: notion
   - name: trello
