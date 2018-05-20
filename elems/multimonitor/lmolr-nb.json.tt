@@ -5,7 +5,7 @@
     "single": {
       "eDP1": {
         "role": "internal",
-        "mode": "1920x1080"
+        "mode": "3840x2160"
       }
     }
   }
