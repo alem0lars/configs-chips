@@ -22,9 +22,7 @@ apps:
   - name: trello
 
   # Social
-  - name: whatsapp-web-desktop
-  - name: telegram-desktop
-  - name: slack
+  - name: franz
 
 lastpass:
   user: molari.luca@gmail.com
