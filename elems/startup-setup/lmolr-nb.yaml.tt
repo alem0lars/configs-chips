@@ -24,6 +24,9 @@ apps:
   # Social
   - name: franz
 
+  # Browse
+  - name: chromium
+
 lastpass:
   user: molari.luca@gmail.com
 
