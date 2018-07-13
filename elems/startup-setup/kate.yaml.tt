@@ -31,6 +31,9 @@ apps:
   - name: caprine
   - name: slack
   - name: thunderbird
+  - name: hexchat
+  # Development
+  - name: zeal
 
 lastpass:
   user: molari.alessandro@gmail.com
