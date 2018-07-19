@@ -31,6 +31,10 @@
     {
       "name": "Notion",
       "profile": "Default"
+    },
+    {
+      "name": "Slack",
+      "profile": "Default"
     }
   ]
 }
