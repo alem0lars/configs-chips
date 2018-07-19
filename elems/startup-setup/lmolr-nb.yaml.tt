@@ -12,6 +12,9 @@ apps:
     args: --restore
     detached: false
 
+  # Sync
+  - name: megasync
+
   # Misc
   - name: dunst
   - name: copyq
@@ -27,8 +30,10 @@ apps:
   # Browse
   - name: chromium
 
+  # Dev
+  - name: jetbrains-toolbox
+
 lastpass:
   user: molari.luca@gmail.com
-
 
 # vim: set ft=yaml.eruby :
