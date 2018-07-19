@@ -27,6 +27,10 @@
     {
       "name": "wordreference",
       "profile": "Default"
+    },
+    {
+      "name": "Notion",
+      "profile": "Default"
     }
   ]
 }
