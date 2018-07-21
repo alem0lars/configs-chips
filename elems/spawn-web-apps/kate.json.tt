@@ -43,6 +43,10 @@
     {
       "name": "Todoist",
       "profile": "Default"
+    },
+    {
+      "name": "GoogleCalendar",
+      "profile": "Default"
     }
   ]
 }
