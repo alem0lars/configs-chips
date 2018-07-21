@@ -30,7 +30,6 @@ apps:
   - name: telegram-desktop
   - name: caprine
   - name: slack
-  - name: thunderbird
   - name: hexchat
   # Development
   - name: zeal

@@ -25,7 +25,7 @@
       "profile": "Default"
     },
     {
-      "name": "wordreference",
+      "name": "WordReference",
       "profile": "Default"
     },
     {
@@ -35,7 +35,12 @@
     {
       "name": "Slack",
       "profile": "Default"
+    },
+    {
+      "name": "Gmail",
+      "profile": "Default"
     }
+
   ]
 }
 
