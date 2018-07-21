@@ -39,8 +39,11 @@
     {
       "name": "Gmail",
       "profile": "Default"
+    },
+    {
+      "name": "Todoist",
+      "profile": "Default"
     }
-
   ]
 }
 
