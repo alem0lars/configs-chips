@@ -22,10 +22,10 @@ apps:
   # Docs
 
   # Org
-  - name: trello
+  - name: trello-launch
 
   # Social
-  - name: franz
+  - name: franz-launch
 
   # Browse
   - name: chromium
