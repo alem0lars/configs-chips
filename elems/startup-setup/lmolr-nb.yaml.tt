@@ -19,11 +19,6 @@ apps:
   - name: dunst
   - name: copyq
 
-  # Docs
-
-  # Org
-  - name: trello-launch
-
   # Social
   - name: franz-launch
 
