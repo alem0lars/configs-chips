@@ -53,6 +53,18 @@
         "position": "right",
         "scale": 1.5
       }
+    },
+    "copernico-milano": {
+      "eDP1": {
+        "role": "internal",
+        "mode": "2880x1620"
+      },
+      "HDMI1": {
+        "role": "external",
+        "mode": "1920x1080",
+        "position": "right",
+        "scale": 1.5
+      }
     }
   }
 }

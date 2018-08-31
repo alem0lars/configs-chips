@@ -25,7 +25,27 @@
       "profile": "Default"
     },
     {
-      "name": "wordreference",
+      "name": "WordReference",
+      "profile": "Default"
+    },
+    {
+      "name": "Notion",
+      "profile": "Default"
+    },
+    {
+      "name": "Slack",
+      "profile": "Default"
+    },
+    {
+      "name": "Gmail",
+      "profile": "Default"
+    },
+    {
+      "name": "Todoist",
+      "profile": "Default"
+    },
+    {
+      "name": "GoogleCalendar",
       "profile": "Default"
     }
   ]
