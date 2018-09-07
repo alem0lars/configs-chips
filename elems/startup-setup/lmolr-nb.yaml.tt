@@ -19,13 +19,8 @@ apps:
   - name: dunst
   - name: copyq
 
-  # Docs
-
-  # Org
-  - name: trello
-
   # Social
-  - name: franz
+  - name: franz-launch
 
   # Browse
   - name: chromium
