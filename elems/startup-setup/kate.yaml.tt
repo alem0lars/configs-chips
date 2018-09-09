@@ -18,16 +18,9 @@ apps:
   - name: toggldesktop
 
   # Docs
-  - name: feedreader
   - name: calibre
-  # Org
-  - name: notion
-  - name: trello
   # Social
-  - name: whatsapp-web-desktop
   - name: telegram-desktop
-  - name: caprine
-  - name: slack
   - name: hexchat
   # Development
   - name: zeal
