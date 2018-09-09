@@ -3,6 +3,14 @@
     {
       "name": "trello",
       "profile": "Default"
+    },
+    {
+      "name": "Gmail",
+      "profile": "Default"
+    },
+    {
+      "name": "GoogleCalendar",
+      "profile": "Default"
     }
   ]
 }
