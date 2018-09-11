@@ -11,6 +11,10 @@
     {
       "name": "GoogleCalendar",
       "profile": "Default"
+    },
+    {
+      "name": "GoogleHangouts",
+      "profile": "Default"
     }
   ]
 }
