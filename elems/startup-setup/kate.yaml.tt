@@ -5,7 +5,8 @@ apps:
     detached: false
   - name: multimonitor
     detached: false
-  - name: redshift
+  - name: "(/usr/lib/geoclue-2.0/demos/agent | redshift)"
+    single: redshift
   - name: unclutter
     args: -root
   - name: nitrogen
@@ -15,7 +16,11 @@ apps:
   # Misc
   - name: dunst
   - name: copyq
+  - name: nm-applet
+
   - name: toggldesktop
+
+  - name: spawn-web-apps
 
   # Docs
   - name: calibre
