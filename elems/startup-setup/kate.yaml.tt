@@ -27,6 +27,7 @@ apps:
   # Social
   - name: telegram-desktop
   - name: hexchat
+  - name: skypeforlinux
   # Development
   - name: zeal
 
