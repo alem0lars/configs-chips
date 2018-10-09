@@ -54,12 +54,24 @@
         "scale": 1.5
       }
     },
-    "ii-selice-workplace": {
+    "ii-selice-workplace-vga": {
       "eDP1": {
         "role": "internal",
         "mode": "2880x1620"
       },
       "VGA1": {
+        "role": "external",
+        "mode": "1920x1080",
+        "position": "right",
+        "scale": 1.5
+      }
+    },
+    "ii-selice-workplace-hdmi": {
+      "eDP1": {
+        "role": "internal",
+        "mode": "2880x1620"
+      },
+      "HDMI1": {
         "role": "external",
         "mode": "1920x1080",
         "position": "right",
