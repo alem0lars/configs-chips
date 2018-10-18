@@ -18,18 +18,6 @@
         "scale": 1.5
       }
     },
-    "office": {
-      "eDP1": {
-        "role": "internal",
-        "mode": "2880x1620"
-      },
-      "DP2-2": {
-        "role": "external",
-        "mode": "2560x1440",
-        "position": "right",
-        "scale": 1.3
-      }
-    },
     "vela": {
       "eDP1": {
         "role": "internal",
@@ -100,6 +88,29 @@
         "mode": "1920x1080",
         "position": "right",
         "scale": 1.5
+      }
+    },
+    "home-office": {
+      "eDP1": {
+        "role": "internal",
+        "mode": "2880x1620"
+      },
+      "DP2-2": {
+        "role": "external",
+        "mode": "2560x1440",
+        "position": "right",
+        "scale": 1.3
+      }
+    },
+    "home-living-room": {
+      "eDP1": {
+        "role": "internal",
+        "mode": "2880x1620"
+      },
+      "DP1": {
+        "role": "external",
+        "mode": "3840x2160",
+        "position": "right"
       }
     }
   }
