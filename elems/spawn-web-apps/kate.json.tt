@@ -1,11 +1,19 @@
 {
   "apps": [
     {
-      "name": "trello",
+      "name": "slack-cesena",
       "profile": "Default"
     },
     {
-      "name": "toggl",
+      "name": "gmail-personal",
+      "profile": "Default"
+    },
+    {
+      "name": "gmail-obsidium",
+      "profile": "Profile 3"
+    },
+    {
+      "name": "trello",
       "profile": "Default"
     },
     {
@@ -25,27 +33,19 @@
       "profile": "Default"
     },
     {
-      "name": "WordReference",
+      "name": "wordreference",
       "profile": "Default"
     },
     {
-      "name": "Notion",
+      "name": "notion",
       "profile": "Default"
     },
     {
-      "name": "Slack",
+      "name": "todoist",
       "profile": "Default"
     },
     {
-      "name": "Gmail",
-      "profile": "Default"
-    },
-    {
-      "name": "Todoist",
-      "profile": "Default"
-    },
-    {
-      "name": "GoogleCalendar",
+      "name": "google-calendar",
       "profile": "Default"
     }
   ]
