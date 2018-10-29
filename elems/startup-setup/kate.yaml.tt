@@ -1,5 +1,6 @@
 apps:
   # System
+  - name: compton
   - name: start-pulseaudio-x11
     single: pulseaudio
     detached: false
