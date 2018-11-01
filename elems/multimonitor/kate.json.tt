@@ -107,7 +107,7 @@
         "role": "internal",
         "mode": "2880x1620"
       },
-      "DP2-1": {
+      "DP1": {
         "role": "external",
         "mode": "3840x2160",
         "position": "right"
