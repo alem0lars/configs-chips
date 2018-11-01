@@ -1,6 +1,5 @@
 apps:
   # System
-  - name: "compton --backend xrender --vsync opengl"
   - name: start-pulseaudio-x11
     single: pulseaudio
     detached: false
