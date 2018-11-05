@@ -47,6 +47,10 @@
     {
       "name": "google-calendar",
       "profile": "Default"
+    },
+    {
+      "name": "google-calendar-obsidium",
+      "profile": "Profile 3"
     }
   ]
 }
