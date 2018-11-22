@@ -12,6 +12,12 @@ apps:
   - name: nitrogen
     args: --restore
     detached: false
+  - name: udiskie
+    args:
+      - --no-automount
+      - --no-notify
+      - --tray
+      - --use-udisks2
 
   # Misc
   - name: dunst
