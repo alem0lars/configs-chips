@@ -21,7 +21,7 @@
       "profile": "Default"
     },
     {
-      "name": "facebook",
+      "name": "messenger",
       "profile": "Default"
     },
     {
@@ -46,6 +46,14 @@
     },
     {
       "name": "google-calendar",
+      "profile": "Default"
+    },
+    {
+      "name": "google-keep",
+      "profile": "Default"
+    },
+    {
+      "name": "google-contacts",
       "profile": "Default"
     },
     {

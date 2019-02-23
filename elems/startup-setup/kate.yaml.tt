@@ -23,6 +23,7 @@ apps:
   - name: dunst
   - name: copyq
   - name: nm-applet
+  - name: blueman-applet
 
   - name: spawn-web-apps
 
@@ -33,6 +34,8 @@ apps:
   - name: telegram-desktop
   - name: hexchat
   - name: skypeforlinux
+  - name: ripcord
+  - name: thunderbird
 
   # Development
   - name: zeal
