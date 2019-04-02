@@ -5,30 +5,38 @@ apps:
     detached: false
   - name: multimonitor
     detached: false
-  - name: redshift
+  - name: "(/usr/lib/geoclue-2.0/demos/agent | redshift)"
+    single: redshift
   - name: unclutter
     args: -root
   - name: nitrogen
     args: --restore
     detached: false
+  - name: udiskie
+    args:
+      - --no-automount
+      - --no-notify
+      - --tray
+      - --use-udisks2
 
   # Misc
   - name: dunst
   - name: copyq
-  - name: toggldesktop
+  - name: nm-applet
+  - name: blueman-applet
+
+  - name: spawn-web-apps
 
   # Docs
-  - name: feedreader
   - name: calibre
-  # Org
-  - name: notion
-  - name: trello
+
   # Social
-  - name: whatsapp-web-desktop
   - name: telegram-desktop
-  - name: caprine
-  - name: slack
   - name: hexchat
+  - name: skypeforlinux
+  - name: ripcord
+  - name: thunderbird
+
   # Development
   - name: zeal
 
